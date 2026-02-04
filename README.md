@@ -2,63 +2,109 @@
 
 
 
-This repository contains 20 assignments completed as part of my Data Science course.
+This repository contains 20 assignments completed as part of my Data Science course.  
+
+Each notebook focuses on a core concept in Python, statistics, machine learning, and deep learning.
 
 
 
 \## Topics Covered
 
-\- Python Basics
+1\. Python Basics  
 
-\- Data Structures \& Functions
+2\. Data Structures, Functions, NumPy \& Pandas  
 
-\- NumPy \& Pandas
+3\. Basic Statistics - 1  
 
-\- Basic Statistics (1 \& 2)
+4\. Basic Statistics - 2  
 
-\- Exploratory Data Analysis (EDA)
+5\. Exploratory Data Analysis (EDA)  
 
-\- Hypothesis Testing
+6\. Hypothesis Testing  
 
-\- Multiple Linear Regression (MLR)
+7\. Multiple Linear Regression (MLR)  
 
-\- Logistic Regression
+8\. Logistic Regression  
 
-\- Data Transformation
+9\. Data Transformation  
 
-\- Support Vector Machine (SVM)
+10\. Support Vector Machine (SVM)  
 
-\- Decision Tree
+11\. Decision Tree  
 
-\- Random Forest
+12\. Random Forest  
 
-\- XGBoost \& LightGBM
+13\. XGBoost \& LightGBM  
 
-\- Principal Component Analysis (PCA)
+14\. Principal Component Analysis (PCA)  
 
-\- Clustering
+15\. Clustering  
 
-\- Recommendation System
+16\. Recommendation System  
 
-\- Time Series
+17\. Time Series  
 
-\- Neural Networks
+18\. Neural Networks  
 
-\- Natural Language Processing (NLP)
+19\. Natural Language Processing (NLP)  
 
-\- Recurrent Neural Networks (RNN)
+20\. Recurrent Neural Networks (RNN)
+
+
+
+\## Skills Demonstrated
+
+\- Python programming fundamentals
+
+\- Data manipulation with NumPy and Pandas
+
+\- Statistical analysis and hypothesis testing
+
+\- EDA and visualization
+
+\- Supervised ML: regression, classification
+
+\- Model evaluation and feature engineering
+
+\- Tree-based models and boosting
+
+\- Dimensionality reduction and clustering
+
+\- Recommendation systems and time series basics
+
+\- Deep learning basics + NLP + RNN fundamentals
 
 
 
 \## Tools \& Libraries
 
-\- Python
+\- Python, Jupyter Notebook
 
-\- NumPy
-
-\- Pandas
+\- NumPy, Pandas
 
 \- Matplotlib / Seaborn
 
 \- Scikit-learn
+
+\- (Optional) XGBoost / LightGBM
+
+
+
+\## How to Run
+
+1\. Clone the repository  
+
+2\. Create a virtual environment (optional)  
+
+3\. Install dependencies  
+
+4\. Open notebooks in Jupyter / VS Code  
+
+
+
+Example:
+
+```bash
+
+pip install numpy pandas matplotlib seaborn scikit-learn
 
